@@ -1,7 +1,7 @@
 ﻿### DBLogSSM(DBLog重构)
 
 ### 技术选型：
-
+* 重构SSM架构
 * JDK8
 * 数据库MySQL
 * SSH (Spring、SpringMVC、Hibernate）
