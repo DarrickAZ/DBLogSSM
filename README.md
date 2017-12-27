@@ -8,7 +8,7 @@
 * 安全权限 Shiro
 * 搜索工具 Lucene
 * 缓存 Ehcache
-* 视图模板 Velocity>>>angularjs html
+* 视图模板 去掉Velocity >>> 换成 angularjs html
 * 其它 Jsoup、fastjson、GraphicsMagick
 * jQuery、Seajs
 * Bootstrap 前端框架
